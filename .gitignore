@@ -1,1 +1,2 @@
-/temp_env
+**/new_venv
+**/.ipynb_checkpoints
