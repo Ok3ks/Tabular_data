@@ -1,2 +1,3 @@
-**/new_venv
+**_venv
 **/.ipynb_checkpoints
+*.gitignore
