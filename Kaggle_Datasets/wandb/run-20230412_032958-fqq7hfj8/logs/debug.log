@@ -1,0 +1,53 @@
+2023-04-12 03:29:58,633 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Configure stats pid to 13230
+2023-04-12 03:29:58,633 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Loading settings from /Users/max/.config/wandb/settings
+2023-04-12 03:29:58,633 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Loading settings from /Users/max/Desktop/Tabular_data/Kaggle_Datasets/wandb/settings
+2023-04-12 03:29:58,633 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-04-12 03:29:58,633 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-04-12 03:29:58,633 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-04-12 03:29:58,633 INFO    MainThread:13230 [wandb_init.py:_log_setup():507] Logging user logs to /Users/max/Desktop/Tabular_data/Kaggle_Datasets/wandb/run-20230412_032958-fqq7hfj8/logs/debug.log
+2023-04-12 03:29:58,633 INFO    MainThread:13230 [wandb_init.py:_log_setup():508] Logging internal logs to /Users/max/Desktop/Tabular_data/Kaggle_Datasets/wandb/run-20230412_032958-fqq7hfj8/logs/debug-internal.log
+2023-04-12 03:29:58,634 INFO    MainThread:13230 [wandb_init.py:_jupyter_setup():453] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x173c3cc10>
+2023-04-12 03:29:58,634 INFO    MainThread:13230 [wandb_init.py:init():547] calling init triggers
+2023-04-12 03:29:58,634 INFO    MainThread:13230 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-04-12 03:29:58,634 INFO    MainThread:13230 [wandb_init.py:init():595] starting backend
+2023-04-12 03:29:58,634 INFO    MainThread:13230 [wandb_init.py:init():599] setting up manager
+2023-04-12 03:29:58,635 INFO    MainThread:13230 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2023-04-12 03:29:58,636 INFO    MainThread:13230 [wandb_init.py:init():605] backend started and connected
+2023-04-12 03:29:58,638 INFO    MainThread:13230 [wandb_run.py:_label_probe_notebook():1237] probe notebook
+2023-04-12 03:29:58,638 INFO    MainThread:13230 [wandb_run.py:_label_probe_notebook():1247] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-04-12 03:29:58,638 INFO    MainThread:13230 [wandb_init.py:init():695] updated telemetry
+2023-04-12 03:29:58,664 INFO    MainThread:13230 [wandb_init.py:init():732] communicating run to backend with 60.0 second timeout
+2023-04-12 03:29:59,002 INFO    MainThread:13230 [wandb_run.py:_on_init():2176] communicating current version
+2023-04-12 03:29:59,129 INFO    MainThread:13230 [wandb_run.py:_on_init():2185] got version response 
+2023-04-12 03:29:59,129 INFO    MainThread:13230 [wandb_init.py:init():782] starting run threads in backend
+2023-04-12 03:29:59,179 INFO    MainThread:13230 [wandb_run.py:_console_start():2157] atexit reg
+2023-04-12 03:29:59,180 INFO    MainThread:13230 [wandb_run.py:_redirect():2012] redirect: SettingsConsole.WRAP_RAW
+2023-04-12 03:29:59,180 INFO    MainThread:13230 [wandb_run.py:_redirect():2077] Wrapping output streams.
+2023-04-12 03:29:59,180 INFO    MainThread:13230 [wandb_run.py:_redirect():2102] Redirects installed.
+2023-04-12 03:29:59,180 INFO    MainThread:13230 [wandb_init.py:init():824] run started, returning control to user process
+2023-04-12 03:29:59,182 INFO    MainThread:13230 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-04-12 03:29:59,182 INFO    MainThread:13230 [wandb_init.py:_pause_backend():418] pausing backend
+2023-04-12 03:31:05,827 INFO    MainThread:13230 [wandb_init.py:_resume_backend():423] resuming backend
+2023-04-12 03:31:05,839 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Configure stats pid to 13230
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Loading settings from /Users/max/.config/wandb/settings
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Loading settings from /Users/max/Desktop/Tabular_data/Kaggle_Datasets/wandb/settings
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_init.py:_log_setup():507] Logging user logs to /Users/max/Desktop/Tabular_data/Kaggle_Datasets/wandb/run-20230412_033105-vl997zd3/logs/debug.log
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_init.py:_log_setup():508] Logging internal logs to /Users/max/Desktop/Tabular_data/Kaggle_Datasets/wandb/run-20230412_033105-vl997zd3/logs/debug-internal.log
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_init.py:init():547] calling init triggers
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_init.py:init():571] re-initializing run, found existing run on stack: fqq7hfj8
+2023-04-12 03:31:05,842 INFO    MainThread:13230 [wandb_run.py:_finish():1892] finishing run freelanceokeks/Media Prediction/fqq7hfj8
+2023-04-12 03:31:05,844 ERROR   MainThread:13230 [jupyter.py:save_history():437] Run pip install nbformat to save notebook history
+2023-04-12 03:31:05,844 INFO    MainThread:13230 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-04-12 03:31:05,844 INFO    MainThread:13230 [wandb_init.py:_jupyter_teardown():435] cleaning up jupyter logic
+2023-04-12 03:31:05,844 INFO    MainThread:13230 [wandb_run.py:_atexit_cleanup():2126] got exitcode: 0
+2023-04-12 03:31:05,844 INFO    MainThread:13230 [wandb_run.py:_restore():2109] restore
+2023-04-12 03:31:05,844 INFO    MainThread:13230 [wandb_run.py:_restore():2115] restore done
+2023-04-12 03:31:09,834 INFO    MainThread:13230 [wandb_run.py:_footer_history_summary_info():3476] rendering history
+2023-04-12 03:31:09,834 INFO    MainThread:13230 [wandb_run.py:_footer_history_summary_info():3508] rendering summary
+2023-04-12 03:31:09,841 INFO    MainThread:13230 [wandb_run.py:_footer_sync_info():3434] logging synced files

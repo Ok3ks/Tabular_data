@@ -1,0 +1,33 @@
+{
+    "os": "macOS-12.4-arm64-arm-64bit",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-04-12T02:36:25.839090",
+    "startedAt": "2023-04-12T02:36:21.468918",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/Ok3ks/Tabular_data.git",
+        "commit": "d71eb548454b9e32e03696d2b1eb5d81eb9788bf"
+    },
+    "email": "freelanceokeks@gmail.com",
+    "root": "/Users/max/Desktop/Tabular_data",
+    "host": "Ayodejis-MacBook-Pro.local",
+    "username": "max",
+    "executable": "/Users/max/Desktop/Tabular_data/tabular_venv/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "total": 228.27386474609375,
+        "used": 21.861682891845703
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

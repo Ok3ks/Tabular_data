@@ -1,0 +1,21 @@
+TY  - DATA
+AU  - Haigh, Ivan
+AU  - Inayatillah, Addina
+AU  - Brand, James
+AU  - Francis, Katy
+AU  - Mortley, Alex
+AU  - Fantuzzi, Laura
+AU  - Palmer, Elizabeth
+AU  - Miller, Calum
+AU  - Hogarth, Peter
+TI  - Historic sea level records in the Thames Estuary, UK, 1911 - 1995.
+PY  - 2021
+DA  - 2021/06/24/12:21
+AB  - This dataset contains high and low water values manually digitised from historic hand-written tabulated ledgers, from the Port of London Authority (PLA). The dataset contains 463 years of data, from across 15 tide gauge sites along the Thames Estuary (bounding box = -0.3159&#176;W, 51.3914&#176;N, 1.3797&#176;E, 51.8428&#176;N), for the period 1911 to 1995. When these historic records are combined with digital records available from the PLA since 1995, the new sea level time-series spans the 111-year period from 1911 to 2021. London is one of the world's most important coastal cities and is located around the Thames Estuary. Quantifying changes in sea levels in the Thames Estuary over the 20<sup>th</sup> century and early part of the 21<sup>st</sup> century is vital to inform future management of flood risk in London. This dataset is of importance for ongoing monitoring of mean sea-level rise, and changes in tidal range and extreme sea levels in the Thames Estuary. The project was led by the School of Ocean and Earth Science, University of Southampton and the Environment Agency, with contributions from the Port of London Authority. The study contributes to the objectives of UK National Environment Research Council (NERC) project E-Rise: Earliest detection of sea-level rise accelerations to inform lead time to upgrade/replace coastal flood defence infrastructure (NE/P009069/1; I.D.H.).
+KW  - North Sea
+KW  - Thames Estuary
+KW  - Sea level
+DO  - doi:10.5285/b66afb2c-cd53-7de9-e053-6c86abc0d251
+PB  - NERC EDS British Oceanographic Data Centre NOC
+LA  - en
+ER  - 

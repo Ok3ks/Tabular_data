@@ -1,0 +1,58 @@
+2023-04-12 03:31:05,839 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Configure stats pid to 13230
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Loading settings from /Users/max/.config/wandb/settings
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Loading settings from /Users/max/Desktop/Tabular_data/Kaggle_Datasets/wandb/settings
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_init.py:_log_setup():507] Logging user logs to /Users/max/Desktop/Tabular_data/Kaggle_Datasets/wandb/run-20230412_033105-vl997zd3/logs/debug.log
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_init.py:_log_setup():508] Logging internal logs to /Users/max/Desktop/Tabular_data/Kaggle_Datasets/wandb/run-20230412_033105-vl997zd3/logs/debug-internal.log
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_init.py:init():547] calling init triggers
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-04-12 03:31:05,840 INFO    MainThread:13230 [wandb_init.py:init():571] re-initializing run, found existing run on stack: fqq7hfj8
+2023-04-12 03:31:05,842 INFO    MainThread:13230 [wandb_run.py:_finish():1892] finishing run freelanceokeks/Media Prediction/fqq7hfj8
+2023-04-12 03:31:05,844 ERROR   MainThread:13230 [jupyter.py:save_history():437] Run pip install nbformat to save notebook history
+2023-04-12 03:31:05,844 INFO    MainThread:13230 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-04-12 03:31:05,844 INFO    MainThread:13230 [wandb_init.py:_jupyter_teardown():435] cleaning up jupyter logic
+2023-04-12 03:31:05,844 INFO    MainThread:13230 [wandb_run.py:_atexit_cleanup():2126] got exitcode: 0
+2023-04-12 03:31:05,844 INFO    MainThread:13230 [wandb_run.py:_restore():2109] restore
+2023-04-12 03:31:05,844 INFO    MainThread:13230 [wandb_run.py:_restore():2115] restore done
+2023-04-12 03:31:09,834 INFO    MainThread:13230 [wandb_run.py:_footer_history_summary_info():3476] rendering history
+2023-04-12 03:31:09,834 INFO    MainThread:13230 [wandb_run.py:_footer_history_summary_info():3508] rendering summary
+2023-04-12 03:31:09,841 INFO    MainThread:13230 [wandb_run.py:_footer_sync_info():3434] logging synced files
+2023-04-12 03:31:09,902 INFO    MainThread:13230 [wandb_init.py:init():595] starting backend
+2023-04-12 03:31:09,902 INFO    MainThread:13230 [wandb_init.py:init():599] setting up manager
+2023-04-12 03:31:09,904 INFO    MainThread:13230 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2023-04-12 03:31:09,905 INFO    MainThread:13230 [wandb_init.py:init():605] backend started and connected
+2023-04-12 03:31:09,909 INFO    MainThread:13230 [wandb_run.py:_label_probe_notebook():1237] probe notebook
+2023-04-12 03:31:09,909 INFO    MainThread:13230 [wandb_run.py:_label_probe_notebook():1247] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-04-12 03:31:09,909 INFO    MainThread:13230 [wandb_init.py:init():695] updated telemetry
+2023-04-12 03:31:09,921 INFO    MainThread:13230 [wandb_init.py:init():732] communicating run to backend with 60.0 second timeout
+2023-04-12 03:31:11,204 INFO    MainThread:13230 [wandb_run.py:_on_init():2176] communicating current version
+2023-04-12 03:31:11,251 INFO    MainThread:13230 [wandb_run.py:_on_init():2185] got version response 
+2023-04-12 03:31:11,251 INFO    MainThread:13230 [wandb_init.py:init():782] starting run threads in backend
+2023-04-12 03:31:11,286 INFO    MainThread:13230 [wandb_run.py:_console_start():2157] atexit reg
+2023-04-12 03:31:11,286 INFO    MainThread:13230 [wandb_run.py:_redirect():2012] redirect: SettingsConsole.WRAP_RAW
+2023-04-12 03:31:11,286 INFO    MainThread:13230 [wandb_run.py:_redirect():2077] Wrapping output streams.
+2023-04-12 03:31:11,286 INFO    MainThread:13230 [wandb_run.py:_redirect():2102] Redirects installed.
+2023-04-12 03:31:11,286 INFO    MainThread:13230 [wandb_init.py:init():824] run started, returning control to user process
+2023-04-12 03:36:21,472 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Configure stats pid to 13230
+2023-04-12 03:36:21,472 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Loading settings from /Users/max/.config/wandb/settings
+2023-04-12 03:36:21,472 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Loading settings from /Users/max/Desktop/Tabular_data/Kaggle_Datasets/wandb/settings
+2023-04-12 03:36:21,472 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-04-12 03:36:21,472 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-04-12 03:36:21,472 INFO    MainThread:13230 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-04-12 03:36:21,472 INFO    MainThread:13230 [wandb_init.py:_log_setup():507] Logging user logs to /Users/max/Desktop/Tabular_data/Kaggle_Datasets/wandb/run-20230412_033621-9sc744r2/logs/debug.log
+2023-04-12 03:36:21,472 INFO    MainThread:13230 [wandb_init.py:_log_setup():508] Logging internal logs to /Users/max/Desktop/Tabular_data/Kaggle_Datasets/wandb/run-20230412_033621-9sc744r2/logs/debug-internal.log
+2023-04-12 03:36:21,472 INFO    MainThread:13230 [wandb_init.py:_jupyter_setup():453] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x281873880>
+2023-04-12 03:36:21,473 INFO    MainThread:13230 [wandb_init.py:init():547] calling init triggers
+2023-04-12 03:36:21,473 INFO    MainThread:13230 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-04-12 03:36:21,473 INFO    MainThread:13230 [wandb_init.py:init():571] re-initializing run, found existing run on stack: vl997zd3
+2023-04-12 03:36:21,475 INFO    MainThread:13230 [wandb_run.py:_finish():1892] finishing run freelanceokeks/Media Prediction/vl997zd3
+2023-04-12 03:36:21,475 INFO    MainThread:13230 [wandb_run.py:_atexit_cleanup():2126] got exitcode: 0
+2023-04-12 03:36:21,476 INFO    MainThread:13230 [wandb_run.py:_restore():2109] restore
+2023-04-12 03:36:21,476 INFO    MainThread:13230 [wandb_run.py:_restore():2115] restore done
+2023-04-12 03:36:24,412 INFO    MainThread:13230 [wandb_run.py:_footer_history_summary_info():3476] rendering history
+2023-04-12 03:36:24,412 INFO    MainThread:13230 [wandb_run.py:_footer_history_summary_info():3508] rendering summary
+2023-04-12 03:36:24,417 INFO    MainThread:13230 [wandb_run.py:_footer_sync_info():3434] logging synced files
